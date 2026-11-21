@@ -1,0 +1,6 @@
+{
+  "name": "معرض النور",
+  "description": "تطبيق معرض النور لعرض منتجات الأدوات الصحية من المغاسل والخلاطات والسيراميك والغرانيت بواجهة عصرية فاخرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
